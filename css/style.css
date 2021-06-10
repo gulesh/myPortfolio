@@ -8,32 +8,23 @@
   /* background-image: url("images/tech1.png");; */
 }
 
+.linkedin{
+  color:#2867b2;
+  border-color: #2867b2;
+}
+
+.linkedin:hover{
+  color:white;
+  background-color: #2867b2;
+  border-color: #2867b2;
+}
+
+
 .intro-text{
   padding-top: 300px;
   padding-bottom: 200px;
 }
 
-
-
-.c1{
-  /* background-image: url("images/titlepage.png"); */
-  background-color: crimson;
-}
-.c2{
-  background-color: rgb(57, 20, 220);
-}
-.c3{
-  background-color: rgb(61, 4, 15);
-}
-.c4{
-  background-color: rgb(70, 43, 49);
-}
-.c5{
-  background-color: rgb(77, 216, 42);
-}
-.c6{
-  background-color: rgb(117, 26, 26);
-}
 
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.1); }
